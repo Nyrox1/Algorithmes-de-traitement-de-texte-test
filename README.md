@@ -1,6 +1,6 @@
 # Algorithmes-de-traitement-de-texte
 
-Implémentation d'algorithmes de traitement de texte (Boyer-Moore, Huffman, Lempel-Ziv-Welch et Rabin-Karp) utilisés pour la **recherche de motifs** dans du texte et la **compression** de texte.
+Implémentation d'algorithmes de traitement de texte (Boyer-Moore, Huffman, Lempel-Ziv-Welch et Rabin-Karp) utilisés pour la **recherche de motifs** dans un texte et la **compression** de texte.
 
 ---
 
